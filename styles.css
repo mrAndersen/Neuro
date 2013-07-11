@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-family: Tahoma sans-serif;
+}
+
+
+
+#view{
+    background: #F3F4F6;
+    margin: 50px auto;
+    border: solid 1px #CCC;
+    position: relative;
+}
+.finish{
+    position: absolute;
+    font-size: 42px;
+}
+
+.player{
+    width: 15px;
+    height: 15px;
+    background: #AB4;
+    border-radius: 50%;
+    position: absolute;
+}
